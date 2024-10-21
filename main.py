@@ -13,6 +13,6 @@ for letters in (alphabet):
         thealphbetjoined = " ".join(alphjoin)
         pepperonicounter.append(thealphbetjoined)
         
-        print(pepperonicounter[1],"(Message sent by: Annonymous. Code hidden by Matthew)")
+        print(pepperonicounter[1])
 
         
